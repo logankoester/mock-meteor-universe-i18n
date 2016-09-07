@@ -1,4 +1,4 @@
-var React = require('react');
+React = require('react');
 
 class T extends React.Component {
   constructor(props) {
