@@ -1,6 +1,6 @@
 {
   "name": "mock-meteor-universe-i18n",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Mock the universe:i18n package for testing outside of Meteor",
   "main": "index.js",
   "scripts": {
