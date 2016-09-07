@@ -7,6 +7,6 @@
 
 ```js
 let MyComponent = require('inject!../MyComponent.jsx')({
-  'meteor/universe:i18n': require('mock-meteor-universe-i18n')
+  'meteor/universe:i18n': require('mock-meteor-universe-i18n')('./en.i18n.json')
 }).default;
 ```
