@@ -23,7 +23,6 @@ class T extends React.Component {
   };
 
   render() {
-    console.log(defaultLanguage);
     var result = defaultLanguage.get(this.props.children);
     return(React.createElement("span", null, result));
   };
